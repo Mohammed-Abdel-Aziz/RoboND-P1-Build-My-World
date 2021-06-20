@@ -27,6 +27,6 @@ Project-1 "Build My World" of Udacity Robotics Software Engineer Nanodegree Prog
     └──  
 ```
 
-## Project Rubric ##
-###Basic Requirements###
+## Project Rubric: ##
+### Basic Requirements ###
 **The student submitted all required files specified in the criteria.**

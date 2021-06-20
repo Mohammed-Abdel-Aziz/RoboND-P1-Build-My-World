@@ -10,7 +10,7 @@ Project-1 "Build My World" of Udacity Robotics Software Engineer Nanodegree Prog
  * Terminal: A welcome message generated from a world plugin and printed to the terminal.
 
 Directory Structure:
-'.Project1                          # Build My World Project 
+'''.Project1                          # Build My World Project 
     ├── model                          # Model files 
     │   ├── Building
     │   │   ├── model.config
@@ -24,4 +24,4 @@ Directory Structure:
     │   ├── UdacityOffice.world
     ├── CMakeLists.txt                 # Link libraries 
     └──                              
-    '
+    '''

@@ -26,3 +26,7 @@ Project-1 "Build My World" of Udacity Robotics Software Engineer Nanodegree Prog
     ├── CMakeLists.txt                 # Link libraries 
     └──  
 ```
+
+## Project Rubric ##
+###Basic Requirements###
+**The student submitted all required files specified in the criteria.**

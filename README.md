@@ -9,19 +9,5 @@ Project-1 "Build My World" of Udacity Robotics Software Engineer Nanodegree Prog
  * Tables: A model imported from the Gazebo online library.
  * Terminal: A welcome message generated from a world plugin and printed to the terminal.
 
-Markup : Directory Structure:
-.Project1                          # Build My World Project 
-    ├── model                          # Model files 
-    │   ├── Building
-    │   │   ├── model.config
-    │   │   ├── model.sdf
-    │   ├── HumanoidRobot
-    │   │   ├── model.config
-    │   │   ├── model.sdf
-    ├── script                         # Gazebo World plugin C++ script      
-    │   ├── welcome_message.cpp
-    ├── world                          # Gazebo main World containing models 
-    │   ├── UdacityOffice.world
-    ├── CMakeLists.txt                 # Link libraries 
-    └──                              
-    
+Directory Structure:
+![Directory Structure](https://user-images.githubusercontent.com/47191401/122678379-e899aa00-d1e6-11eb-9f7c-1dec6943930a.PNG)

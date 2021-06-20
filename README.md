@@ -10,9 +10,6 @@ Project-1 "Build My World" of Udacity Robotics Software Engineer Nanodegree Prog
  * Terminal: A welcome message generated from a world plugin and printed to the terminal.
 
 Directory Structure:
-![Directory Structure](https://user-images.githubusercontent.com/47191401/122678379-e899aa00-d1e6-11eb-9f7c-1dec6943930a.PNG)
-
-
 ```
     .Project1                          # Build My World Project 
     ├── model                          # Model files 

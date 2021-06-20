@@ -9,7 +9,7 @@ Project-1 "Build My World" of Udacity Robotics Software Engineer Nanodegree Prog
  * Tables: A model imported from the Gazebo online library.
  * Terminal: A welcome message generated from a world plugin and printed to the terminal.
 
-Directory Structure:
+## Directory Structure: ##
 ```
     .Project1                          # Build My World Project 
     ├── model                          # Model files 

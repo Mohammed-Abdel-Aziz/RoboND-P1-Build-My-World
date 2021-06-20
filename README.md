@@ -8,3 +8,19 @@ Project-1 "Build My World" of Udacity Robotics Software Engineer Nanodegree Prog
  * Green humanoid robot: Two instances of a model designed on the Model Editor tool of Gazebo.
  * Tables: A model imported from the Gazebo online library.
  * Terminal: A welcome message generated from a world plugin and printed to the terminal.
+
+Directory Structure:
+.Project1                          # Build My World Project 
+    ├── model                          # Model files 
+    │   ├── Building
+    │   │   ├── model.config
+    │   │   ├── model.sdf
+    │   ├── HumanoidRobot
+    │   │   ├── model.config
+    │   │   ├── model.sdf
+    ├── script                         # Gazebo World plugin C++ script      
+    │   ├── welcome_message.cpp
+    ├── world                          # Gazebo main World containing models 
+    │   ├── UdacityOffice.world
+    ├── CMakeLists.txt                 # Link libraries 
+    └──                              

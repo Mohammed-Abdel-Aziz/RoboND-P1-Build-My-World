@@ -11,3 +11,10 @@ Project-1 "Build My World" of Udacity Robotics Software Engineer Nanodegree Prog
 
 Directory Structure:
 ![Directory Structure](https://user-images.githubusercontent.com/47191401/122678379-e899aa00-d1e6-11eb-9f7c-1dec6943930a.PNG)
+
+
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
